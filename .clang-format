@@ -1,1 +1,7 @@
 BasedOnStyle: Google
+
+# 语言: None Cpp Java Objc Protp
+Language: Cpp 
+
+#缩进宽度
+IndentWidth: 4
