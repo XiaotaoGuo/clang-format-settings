@@ -5,3 +5,7 @@ Language: Cpp
 
 #缩进宽度
 IndentWidth: 4
+
+#tab键盘的宽度
+TabWidth: 4
+UseTab: Never
